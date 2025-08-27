@@ -1,20 +1,19 @@
-## Hi there 👋
+## 👋 Hola, soy Nsimba dos Santos
+🎯 Data Scientist | Business Intelligence | Storytelling con Datos
 
-<!--
-**n-mvinvi/n-mvinvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔎 Experto en: Python, MySQL, DAX, Power BI, Tableau  
+- 🤖 Machine Learning: Scikit-learn, TensorFlow  
+- 📊 Storytelling con datos: dashboards y visualizaciones que generan insights de negocio  
+- 🌍 Multilingüe: Portugués, Español, Inglés y básico de Francés  
+- 🚀 Objetivo: aplicar ciencia de datos para resolver problemas de negocio en sectores globales
 
-Here are some ideas to get you started:
+## 🔥 Portafolio Destacado
+- [Proyecto 1: Análisis de Ventas Retail – Power BI Dashboard](link)
+- [Proyecto 2: Modelo de Predicción de Churn – Python + Scikit-learn](link)
+- [Proyecto 3: Storytelling con Datos – SQL + Python + Tableau](link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- Copy-paste in your Readme.md file -->
+🔗 Conecta conmigo en [LinkedIn](tu-link-linkedin)
+
 
 <a href="https://next.ossinsight.io/widgets/official/compose-org-pull-requests-open-to-review?owner_id=11855343&period=past_28_days" target="_blank" style="display: block" align="center">
   <picture>
